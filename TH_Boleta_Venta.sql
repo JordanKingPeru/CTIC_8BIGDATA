@@ -19,6 +19,7 @@ USE `mydb` ;
 
 -- -----------------------------------------------------
 -- Table `mydb`.`Empresa`
+-- -----------------------------------------------------
 DROP TABLE IF EXISTS `mydb`.`Empresa` ;
 
 CREATE TABLE IF NOT EXISTS `mydb`.`Empresa` (
